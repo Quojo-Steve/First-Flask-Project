@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url('/static/img/kanchanara-WL7lswGZ4s4-unsplash.jpg') center cover no-repeat;
+    background: url('/static/img/kanchanara-WL7lswGZ4s4-unsplash.jpg') center no-repeat;
     display: flex;
     min-height: 100vh;
     align-items: center;
